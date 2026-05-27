@@ -1,4 +1,4 @@
-# Generative-Adversarial-Networks
+# Computer-Vision
 Лабораторная 1
 Задача классификации цвета автомобиля.
 Датасет DVM: https://deepvisualmarketing.github.io/, использовать фронтальные виды.
